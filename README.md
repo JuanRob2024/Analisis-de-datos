@@ -45,7 +45,7 @@ eda-bank-marketing/
 
 ## Cómo ejecutar
 ```bash
-git clone https://github.com/<usuario>/eda-bank-marketing.git
+git clone https://github.com/JuanRob2024/Analisis-de-datos.git
 cd eda-bank-marketing
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |  Mac/Linux: source .venv/bin/activate
