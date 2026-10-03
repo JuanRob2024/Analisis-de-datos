@@ -17,9 +17,9 @@ Un banco portugués hizo campañas de telemercadeo para vender **depósitos a pl
 ## Bases de datos exploradas (Fase 1)
 | Base | Tipo | Registros | Seleccionada |
 |---|---|---|---|
-| Bank Marketing (UCI) | Tabular | 41.188 × 21 | ✅ |
-| SMS Spam Collection (UCI) | Texto | 5.572 mensajes | ❌ |
-| Fashion-MNIST (Zalando) | Imágenes | 70.000 imágenes 28×28 | ❌ |
+| Bank Marketing (UCI) | Tabular | 41.188 × 21 | (ok) |
+| SMS Spam Collection (UCI) | Texto | 5.572 mensajes | (no) |
+| Fashion-MNIST (Zalando) | Imágenes | 70.000 imágenes 28×28 | (no) |
 
 Se eligió **Bank Marketing** por su mezcla de variables numéricas y categóricas, sus problemas reales de calidad (faltantes ocultos y atípicos), su buena documentación y su tamaño manejable. Ver `notebooks/01_exploracion_bases_de_datos.ipynb`.
 
